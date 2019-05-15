@@ -1,4 +1,4 @@
-# HTML5 SCSS ES6 WEBPACK Boulerplate
+# HTML5 SCSS ES6 WEBPACK Boilerplate
 
 ## Install dependencies
 
